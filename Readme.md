@@ -60,7 +60,7 @@ codsoft/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/developer-devashish/codsoft
    ```
 
 2. Navigate to the project folder:
