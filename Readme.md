@@ -66,7 +66,7 @@ codsoft/
 2. Navigate to the project folder:
 
    ```bash
-   cd calculator
+   cd codsoft
    ```
 
 3. Run the program:
