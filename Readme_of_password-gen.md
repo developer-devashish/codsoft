@@ -44,7 +44,7 @@ git clone https://github.com/developer-devashish/codsoft/blob/main/password-gen.
 3. Navigate to the project folder:
 
 ```bash
-cd password-generator
+cd codsoft
 ```
 
 4. Run the application:
