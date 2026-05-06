@@ -100,3 +100,8 @@ This project was built to help beginners understand:
 * GUI development
 * Event handling
 * Python basics
+
+---
+
+## Author
+Devashish Ghosh
