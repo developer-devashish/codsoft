@@ -96,3 +96,8 @@ This project is open-source and free to use.
 ## Acknowledgment
 
 Built using Python’s built-in GUI library Tkinter.
+
+---
+
+## Author
+Devashish Ghosh
