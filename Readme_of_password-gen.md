@@ -38,7 +38,7 @@ A simple and stylish Password Generator application built with Python and Tkinte
 2. Clone this repository or download the files:
 
 ```bash
-git clone https://github.com/developer-devashish/codsoft/blob/main/password-gen.py
+git clone https://github.com/developer-devashish/codsoft
 ```
 
 3. Navigate to the project folder:
