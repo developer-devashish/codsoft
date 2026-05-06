@@ -55,8 +55,7 @@ Paper    > Rock
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/developer-devashish/codsoft/blob/main/rps_game.py
-
+git clone https://github.com/developer-devashish/codsoft
 # 2. Go into the folder
 cd codsoft
 
